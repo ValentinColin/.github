@@ -35,9 +35,9 @@ body:
       description: Describe alternatives you've considered. A clear and concise description of any alternative solutions or features you've considered.
       placeholder: |
         Ex. I suggest to :
-        1. Append [...]
-        2. Change [...] to [...]
-        3. Remove [...]
+        1. Append [...]  
+        2. Change [...] to [...]  
+        3. Remove [...]  
     validations:
       required: false
 
