@@ -5,10 +5,11 @@ Please make sure that the pull request is limited to one type (docs, feature, et
 You can open multiple prs instead of opening a huge one.
 -->
 
-<!-- If this pull request closes an issue, please mention the issue number below -->
-Closes the issue: # <!-- Issue # here -->
+## ❓ Context
+<!-- A few line to introduce the origin of the PR. Including links to relevant Github issues or other PRs -->
+<!-- Closes the issue: #xxx -->
 
-## 📑 Description
+## 📑 Description / 🎯 Goal
 <!-- Add a brief description of the pr -->
 
 <!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
@@ -17,11 +18,17 @@ Closes the issue: # <!-- Issue # here -->
 -->
 
 ## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+<!-- Make sure your pr passes the CI checks and do check the following fields as needed -->
 - [ ] My pull request adheres to the code style of this project
-- [ ] My code requires changes to the documentation
-- [ ] I have updated the documentation as required
 - [ ] All the tests have passed
+- [ ] My code requires changes to the documentation
+  - [ ] I have updated the documentation as required
+
+## 👷 Work
+<!-- List of main changes in the codebase and explanation of implementation choices -->
+
+## 👁 How to test and see changes
+<!-- Instruction for reviewers on how to test the changes and/or benchmarking results. Including GIF if relevant -->
 
 ## ℹ Additional Information
 <!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
